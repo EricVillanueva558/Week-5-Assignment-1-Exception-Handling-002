@@ -16,5 +16,3 @@ This project solves a problem where a function (`primitiveMultiply`) sometimes f
 - **reliableMultiply(a, b)**:
   - Keeps trying `primitiveMultiply` until it succeeds.
 
-## Usage
-Open `index.html` in a browser and check the console for results.
