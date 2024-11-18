@@ -18,7 +18,3 @@ This project solves a problem where a function (`primitiveMultiply`) sometimes f
 
 ## Usage
 Open `index.html` in a browser and check the console for results.
-
-### Example
-```javascript
-console.log(reliableMultiply(8, 8)); // Outputs: 64
